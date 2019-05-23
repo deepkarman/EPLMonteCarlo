@@ -1,0 +1,135 @@
+new sim starts, num iter is 1000
+num wins is
+Arsenal  -  0 
+Bournemouth  -  0 
+Brighton  -  0 
+Burnley  -  0 
+Chelsea  -  4 
+Crystal Palace  -  0 
+Everton  -  0 
+Huddersfield  -  0 
+Leicester  -  0 
+Liverpool  -  46 
+Man City  -  900 
+Man United  -  30 
+Newcastle  -  0 
+Southampton  -  0 
+Stoke  -  0 
+Swansea  -  0 
+Tottenham  -  20 
+Watford  -  0 
+West Brom  -  0 
+West Ham  -  0 
+ 
+Average points total is
+0th place -  95.90 
+1th place -  85.41 
+2th place -  79.91 
+3th place -  75.21 
+4th place -  69.56 
+5th place -  63.23 
+6th place -  57.12 
+7th place -  53.50 
+8th place -  50.67 
+9th place -  48.27 
+10th place -  46.29 
+11th place -  44.36 
+12th place -  42.57 
+13th place -  40.79 
+14th place -  38.93 
+15th place -  37.14 
+16th place -  35.16 
+17th place -  32.90 
+18th place -  30.12 
+19th place -  26.09 
+ 
+new sim starts, num iter is 10000
+num wins is
+Arsenal  -  5 
+Bournemouth  -  0 
+Brighton  -  0 
+Burnley  -  0 
+Chelsea  -  13 
+Crystal Palace  -  0 
+Everton  -  0 
+Huddersfield  -  0 
+Leicester  -  0 
+Liverpool  -  484 
+Man City  -  8987 
+Man United  -  328 
+Newcastle  -  0 
+Southampton  -  0 
+Stoke  -  0 
+Swansea  -  0 
+Tottenham  -  183 
+Watford  -  0 
+West Brom  -  0 
+West Ham  -  0 
+ 
+Average points total is
+0th place -  95.52 
+1th place -  85.17 
+2th place -  79.85 
+3th place -  75.07 
+4th place -  69.50 
+5th place -  63.52 
+6th place -  57.40 
+7th place -  53.56 
+8th place -  50.72 
+9th place -  48.37 
+10th place -  46.33 
+11th place -  44.43 
+12th place -  42.64 
+13th place -  40.83 
+14th place -  39.04 
+15th place -  37.17 
+16th place -  35.17 
+17th place -  32.89 
+18th place -  30.15 
+19th place -  26.02 
+ 
+new sim starts, num iter is 1000000
+num wins is
+Arsenal  -  128 
+Bournemouth  -  0 
+Brighton  -  0 
+Burnley  -  0 
+Chelsea  -  1869 
+Crystal Palace  -  0 
+Everton  -  0 
+Huddersfield  -  0 
+Leicester  -  2 
+Liverpool  -  47486 
+Man City  -  897827 
+Man United  -  33564 
+Newcastle  -  0 
+Southampton  -  0 
+Stoke  -  0 
+Swansea  -  0 
+Tottenham  -  19124 
+Watford  -  0 
+West Brom  -  0 
+West Ham  -  0 
+ 
+Average points total is (winner is 0th place, last is 19th place)
+0th place -  95.56 
+1th place -  85.19 
+2th place -  79.88 
+3th place -  75.09 
+4th place -  69.50 
+5th place -  63.47 
+6th place -  57.38 
+7th place -  53.56 
+8th place -  50.74 
+9th place -  48.40 
+10th place -  46.34 
+11th place -  44.44 
+12th place -  42.63 
+13th place -  40.84 
+14th place -  39.03 
+15th place -  37.15 
+16th place -  35.13 
+17th place -  32.87 
+18th place -  30.12 
+19th place -  26.01 
+ 
